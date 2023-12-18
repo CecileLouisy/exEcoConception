@@ -1044,12 +1044,21 @@ h4 {
 
 .citation {
     font-size: 1.5em;
+    font-weight: bold;
 }
 .presentation, #agence, #agence2, #parlons, #ouvert {
     font-size: 1.2em;
+    font-weight: bold;
 }
-.col-sm-4 ul li a, #agence, #agence2, h4, #envoi, #cta-hero, #cta-hero2, #contact {
+.citation, .col-sm-4 ul li a, #agence, #agence2, h4, #envoi, #cta-hero, #cta-hero2, #contact {
     color: #000000!important;
+    font-weight: bold;
 }
+#w1, #w2, #w3, #w4, #parlons {
+    background-color: #fff;
+    border-radius: 1%;
+    padding: 1%;
+}
+
 
 /*contraster les icones réseaux sociaux*/
