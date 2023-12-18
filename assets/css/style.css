@@ -1040,3 +1040,16 @@ h4 {
         text-align: center;
     }
 }
+
+
+.citation {
+    font-size: 1.5em;
+}
+.presentation, #agence, #agence2, #parlons, #ouvert {
+    font-size: 1.2em;
+}
+.col-sm-4 ul li a, #agence, #agence2, h4, #envoi, #cta-hero, #contact {
+    color: #000000!important;
+}
+
+/*contraster les icones réseaux sociaux*/
