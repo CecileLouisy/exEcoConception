@@ -771,15 +771,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f2ab8a;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f2ab8a!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f2ab8a;
     color: #FFFFFF!important;
 }
 
@@ -797,7 +797,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #f2ab8a!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -1048,7 +1048,7 @@ h4 {
 .presentation, #agence, #agence2, #parlons, #ouvert {
     font-size: 1.2em;
 }
-.col-sm-4 ul li a, #agence, #agence2, h4, #envoi, #cta-hero, #contact {
+.col-sm-4 ul li a, #agence, #agence2, h4, #envoi, #cta-hero, #cta-hero2, #contact {
     color: #000000!important;
 }
 
